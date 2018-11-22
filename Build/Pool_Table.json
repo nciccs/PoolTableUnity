@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Pool Table",
+"dataUrl": "Pool_Table.data.unityweb",
+"wasmCodeUrl": "Pool_Table.wasm.code.unityweb",
+"wasmFrameworkUrl": "Pool_Table.wasm.framework.unityweb",
+"asmCodeUrl": "Pool_Table.asm.code.unityweb",
+"asmMemoryUrl": "Pool_Table.asm.memory.unityweb",
+"asmFrameworkUrl": "Pool_Table.asm.framework.unityweb",
+"TOTAL_MEMORY": 33554432,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
